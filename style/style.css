@@ -1,0 +1,76 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+#ball{
+    width: 1519px;
+    height: 1000px;
+    opacity: 0.9;
+}
+#player-name{
+    margin-bottom: 300px;
+    padding-left: 300px;
+    position: absolute;
+    top: 50px;
+    letter-spacing: 10px;
+    color: black;
+}
+#ball2{
+    position: relative;
+    top: -1000px;
+    margin: 0;
+    height: 300px;
+    width:300px ;
+
+}
+#bola{
+    position: relative;
+    width: 500px;
+    top: -1200px;
+    color: black;
+}
+#TOTO{
+    position: relative;
+    top: -1150px;
+    padding-left: 1150px;
+    font-size: 50px;
+    letter-spacing: 10px;
+}
+
+#NENE{
+    position: relative;
+    top: -1150px;
+    padding-left: 1160px;
+    font-size: 50px;
+    letter-spacing: 10px;
+    color: white;
+}
+
+#TOTO{
+    position: relative;
+    top: -1300px;
+    padding-left: 1150px;
+    font-size: 50px;
+    letter-spacing: 10px;
+    color: white;
+}
+
+#KUROKO{
+    width: auto;
+    height: 10px;
+}
+#yug{
+    position: relative;
+    width: 100px;
+    top: -1000px;
+    color: black;
+    
+}
+#bra{
+    position: relative;
+    width: 500px;
+    top: -650px;
+    color: aliceblue;
+    margin-left: 500px;
+}
